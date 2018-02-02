@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 857f71a854ddc40dd95324f910c75ad0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 3
@@ -749,7 +749,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: feec0158-f122-4986-b5e7-41cd5881bb50
-  projectName: New Unity Project (1)
+  projectName: SurvivalShooter
   organizationId: justinma_unity
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
